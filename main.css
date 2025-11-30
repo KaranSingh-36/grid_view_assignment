@@ -131,6 +131,7 @@ button{
         grid-column: 2/3;
         grid-row: 1/2;
         height: 40vh;
+        font-size: 20px;
     }
     .about{
         grid-column: 2/3;
